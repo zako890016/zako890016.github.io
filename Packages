@@ -1,0 +1,182 @@
+Package: Flex3beta
+Version: 1:3~Beta98
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/Flex3_3~Beta98.deb
+Size: 14346600
+MD5sum: 693c569e78f37e6d0e9c2e63287bc97e
+SHA1: c6b44a4c7ef73f7b68240775ee58f7591c14d2e4
+SHA256: 2b71e64db3e4b352ef73d54e76e0808bb122c614d97160bf5338b903d2d8f6a4
+Section: Tweaks
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Name: Flex 3 Beta
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: com.brend0n.milkyway2-ios14fix
+Version: 0.0.2.1
+Architecture: iphoneos-arm
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.brend0n.milkyway2-ios14fix_0.0.2.1_iphoneos-arm.deb
+Size: 10150
+MD5sum: 97fa560c870e9fbcc75e366e0cebe335
+SHA1: ec1eb31c1a50520e34d9a9114fe516eb500b5400
+SHA256: 806884a9b90732482a355af6be65c38ac51d70ee845b82499456daf9cb0fd6d8
+Section: Tweaks
+Description: Make MilkyWay2 great again!
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.milkyway2-ios14fix
+Name: MilkyWay2-iOS14Fix
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.milkyway2-ios14fix/depiction.json
+
+Package: com.nrkvv.easyapporientation
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 403
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/easyapporientation_0.0.1.deb
+Size: 18994
+MD5sum: 306b3902e87f8daf4541d0e17c3aab74
+SHA1: 04e1ec7609b7373e45e2a99e16273dc3724cf2f4
+SHA256: 205051fc7b35b842a0f1d06d51854d43a6b2cd0e6dea48945a8b33549f19271e
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=easyapporientationDp
+Description: Lock the orientation of applications
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Author: m156@nrkvv <m156nrkvv@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=easyapporientationDp
+Dev: m156nrkvv
+Icon: file:///Library/PreferenceBundles/EasyAppOrientationPrefs.bundle/EasyAppOrientation@2x.png
+Name: EasyAppOrientation
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpgfarm.pulloverproapappview
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), com.c1d3r.pulloverpro, com.rpgfarm.libapappview
+Filename: ./debs/com.rpgfarm.pulloverproapappview_1.0_iphoneos-arm.deb
+Size: 4908
+MD5sum: f1b36b1857f909a25f8841910aa03f23
+SHA1: 2ebc6896e0bb45bf470f131811f95bf98efa2b95
+SHA256: 12a2ecf715ac6117ca129d5fa3c1247390a1f7cf66468b078414520dea49f441
+Section: Tweaks
+Description: PullOver Pro Keyboard Fix
+Author: Baw Appie <pp121324@gmail.com>
+Name: PullOver Pro Keyboard Fix
+
+Package: flex3beta
+Version: 1:3~Beta98
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>= 12.2) | org.swift.libswift (>= 5.0), firmware (>= 9.0)
+Suggests: com.rpetrich.rocketbootstrap
+Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
+Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
+Filename: ./debs/flex3beta.deb
+Size: 7494640
+MD5sum: d6376d749353fdadfbf9eb1b1895c764
+SHA1: f1352715e19bc3a362bb71129f46a93160b51f17
+SHA256: 924bfa0f6fa4669f2a95cad50bf3d1d6491b5e158bc2f0e3319fd64e8e104d6b
+Section: Tweaks
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Name: Flex 3 Beta
+
+Package: idv.aqua.imem
+Version: 12.1
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 11.0)
+Filename: ./debs/idv.aqua.imem_12.1.deb
+Size: 542014
+MD5sum: 4ff09aa944bdfccb3369898b55b083d9
+SHA1: 0e7b4c24255e2b92aee1756d509680c4cbb12ece
+SHA256: 8862e623c0165f106e5210b4e6e1f1d736ef37532d5a95909590e4a74b55d5a0
+Section: Utilities
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iMemEditor is a memory editor for iOS 11 to 13.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Name: iMemEditor
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+
+Package: jp.akusio.backgrounderaction13
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 244
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm 3.deb
+Size: 14078
+MD5sum: c310760bda4ccc7e5ed3722aed9ef7de
+SHA1: b8619c32ee626b06376975eb84beecfd65cdae84
+SHA256: ad5dc505166d41fd2d60bd1ff9223e46ff1ba48999a57483cc78d8c946dec9c0
+Section: Tweaks
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Author: akusio <akusio-report@neko2.net>
+Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
+Name: BackgrounderAction2 for CCSupport
+
+Package: jp.akusio.kernbypass
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: akusio
+Installed-Size: 380
+Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
+Filename: ./debs/jp.akusio.kernbypass_0.0.2_iphoneos-arm 2.deb
+Size: 12098
+MD5sum: bf11d32c8efe3576fb1716ad28227f0b
+SHA1: d54a0131ea51d21447be7950ef6cb495f751dc1a
+SHA256: 612ca12f0818ed7763806d87f0e4f977d5b208b2dd67b0997745bc0e39a434b2
+Section: System
+Description: kernel level jailbreak detection bypass.
+Author: akusio
+Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
+Name: KernBypass
+
+Package: jp.akusio.milkyway2
+Version: 0.2.0-alpha
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 376
+Depends: mobilesubstrate, jp.akusio.backgrounderaction13, applist, preferenceloader
+Filename: ./debs/jp.akusio.milkyway2_0.2.0-alpha_iphoneos-arm.deb
+Size: 44822
+MD5sum: 45aff19ea7b0327a72e50c4a87d68cd8
+SHA1: a779498db20097cef4783e6d817796d640bd6372
+SHA256: 9c1aa016b720ecfaa6f3176cd88454ec8767f1832306b69cda85e3ed734165e3
+Section: Tweaks
+Description: multitasking for iOS13.
+Author: akusio <akusio-report@neko2.net>
+Depiction: http://akusio.github.io/descriptions/milkyway2/index.html
+Name: MilkyWay2
+
+Package: kr.xsf1re.flyjbx
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb (<<1.2.5)
+Filename: ./debs/kr.xsf1re.flyjbx_1.2.5.deb
+Size: 766132
+MD5sum: 050946345f372683c225b621789994f3
+SHA1: 3ac123b3e38f6d6d51013c20b942ef26cb6b4e44
+SHA256: 7c2af316eeab63ffeea78464d7ce4dbf506c85b45e52ce2d17704699b34ab379
+Section: Tweaks
+Description: You can HIDE Doing jailbreak your iDevice.
+Author: XsF1re
+Name: FlyJB X
+

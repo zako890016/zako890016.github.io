@@ -1,0 +1,8 @@
+Origin: Sako
+Label: zakojb
+Suite: stable
+Version: 1.0
+Codename: zako890016
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: repo
